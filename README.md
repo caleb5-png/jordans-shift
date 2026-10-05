@@ -1,0 +1,1 @@
+# Neon Maze Chase\n\nA dependency-free browser maze chase game. Open `index.html` to play.\n\nControls: WASD / Arrow Keys to move, R to restart. Collect all shards and avoid the three chasers. Cyan items temporarily boost speed.
